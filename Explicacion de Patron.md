@@ -2,6 +2,8 @@
 
 Es un patrón de arquitectura de software, que separa los datos y la lógica de negocio de una aplicación de su representación y el módulo encargado de gestionar los eventos y las comunicaciones.
 
+![](https://miro.medium.com/max/700/1*OP0CS6O5Sb66jpc-H-IuRQ.png)
+
 ## Modelo
 
 Es la representación de la información con la cual el sistema opera, por lo tanto gestiona todos los accesos a dicha información, tanto consultas como actualizaciones, implementando también los privilegios de acceso que se hayan descrito en las especificaciones de la aplicación.
