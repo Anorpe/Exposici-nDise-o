@@ -1,10 +1,10 @@
 # Modelo Vista Controlador
 
-Es un patrón de arquitectura de software, que separa los datos y la lógica de negocio de una aplicación de su representación y el módulo encargado de gestionar los eventos y las comunicaciones
+Es un patrón de arquitectura de software, que separa los datos y la lógica de negocio de una aplicación de su representación y el módulo encargado de gestionar los eventos y las comunicaciones.
 
 ## Modelo
 
-Es la representación de la información con la cual el sistema opera, por lo tanto gestiona todos los accesos a dicha información, tanto consultas como actualizaciones, implementando también los privilegios de acceso que se hayan descrito en las especificaciones de la aplicación
+Es la representación de la información con la cual el sistema opera, por lo tanto gestiona todos los accesos a dicha información, tanto consultas como actualizaciones, implementando también los privilegios de acceso que se hayan descrito en las especificaciones de la aplicación.
 
 ## Vista
 
@@ -32,6 +32,6 @@ Responde a eventos (usualmente acciones del usuario) e invoca peticiones al 'mod
   
   ## Referencias
   
-    - Junta de Andalucía.Patrón Modelo Vista      Controlador.http://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/122#Ventajas_y_desventajas_del_uso_del_patron
-    - Wikipedia.Modelo-vista-controlador.https://es.wikipedia.org/wiki/Modelo%E2%80%93vista%E2%80%93controlador
-    - Towards Data Science.10 Common Software Architectural Patterns in a nutshell.https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013
+    - Junta de Andalucía.Patrón Modelo Vista      Controlador.http://www.juntadeandalucia.es/servicios/madeja/contenido/recurso/122#Ventajas_y_desventajas_del_uso_del_patron.
+    - Wikipedia.Modelo-vista-controlador.https://es.wikipedia.org/wiki/Modelo%E2%80%93vista%E2%80%93controlador.
+    - Towards Data Science.10 Common Software Architectural Patterns in a nutshell.https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013.
